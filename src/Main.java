@@ -1,3 +1,10 @@
+import graph.UnweightedGraph;
+import graph.WeightedGraph;
+import search.BreadthFirstSearch;
+import search.DepthFirstSearch;
+import search.DijkstraSearch;
+import search.Search;
+
 public class Main {
 
     public static void main(String[] args) {
